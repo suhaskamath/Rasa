@@ -1,7 +1,7 @@
 rasa==1.8.1
 spacy==2.1.9
 tensorboard==2.1.1
-tensorflow==2.1.0
+tensorflow==2.1.2
 tensorflow-addons==0.8.3
 tensorflow-estimator==2.1.0
 tensorflow-gpu-estimator==2.1.0
